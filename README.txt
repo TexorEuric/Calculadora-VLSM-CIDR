@@ -1,1 +1,1 @@
-Para ejecutar el proyecto abrir con el click derecho del mouse el archivo starter-page-c.html y abrir con el navegador de su preferencia. :))
+Para ejecutar el proyecto descomprime del archivo zip la carpeta de proyecto, entra al directorio /proyecto y localiza un archivo llamado starter-page-c.html. Hacer click derecho al archivo starter-page-c.html y abrir con el navegador de su preferencia. :))
