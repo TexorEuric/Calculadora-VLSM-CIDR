@@ -1,0 +1,1 @@
+Para ejecutar el proyecto abrir con el click derecho del mouse el archivo starter-page-c.html y abrir con el navegador de su preferencia. :))
